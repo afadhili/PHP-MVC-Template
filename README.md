@@ -9,7 +9,7 @@ This PHP MVC Template is made for beginner, if you're looking for a template to 
 1. Clone this repository to your local machine using:
 
 ```
-  git clone https://github.com/afadhili/
+  git clone https://github.com/afadhili/PHP-MVC-Template.git
 ```
 
 2. Navigate to the project directory:
@@ -40,6 +40,7 @@ If you want to use Database, change the db config in app/config.php
   define('DB_NAME', '__NAME__');
 ```
 
-### Contributing
+Contributing
+------------
 
 Contributions to this project are welcome and encouraged! If you find any bugs, want to add new features, or improve the existing ones, feel free to open issues and pull requests.
