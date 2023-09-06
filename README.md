@@ -25,7 +25,7 @@ You need to configure the BASEURL in app/config.php
 ```php
   <?php
 
-  define('BASEURL', 'http://localhost:8080/__YOUR_DIR__');
+  define('BASEURL', 'http://localhost/__YOUR_DIR__');
 ```
 
 #### Database
