@@ -20,7 +20,7 @@ This PHP MVC Template is made for beginner, if you're looking for a template to 
 
 #### BASEURL
 
-You need to configure the BASEURL in app/config.php
+You need to configure the BASEURL in app/config/config.php
 
 ```php
   <?php
@@ -30,7 +30,7 @@ You need to configure the BASEURL in app/config.php
 
 #### Database
 
-If you want to use Database, change the db config in app/config.php
+If you want to use Database, change the db config in app/config/config.php
 
 ```php
   // DB
